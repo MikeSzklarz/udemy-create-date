@@ -7,4 +7,4 @@ Udemy courses only show updated dates for the course but not the creation date. 
 1. Download a zip or clone this repository
 2. Load this directory in Chrome as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
 3. Navigate to a Udemy course page
-4. The extension will automatically inject a script into the page that retrieves the course creation date and displays it on the page
+4. The extension will automatically inject a script into the page that retrieves the course creation date and displays it on the page above the instructors name
